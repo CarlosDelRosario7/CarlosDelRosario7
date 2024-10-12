@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi, I'm Carlos Del Rosario (DannyHack) 👋</h1>
 </div>
-<img src="https://ibb.co/V331H3H">
+<img src="https://i.ibb.co/rvvjbvb/1719242869797.jpg">
 
 [![GitHub followers](https://img.shields.io/github/followers/CarlosDelRosario7?style=social)](https://github.com/CarlosDelRosario7)
 
